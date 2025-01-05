@@ -92,13 +92,10 @@ hogar_controls_isr:
 ## 📚 Research Cache
 
 1. [Sixth Sense Robot Using Image Processing](https://ieeexplore.ieee.org/document/9770743)
-   - Implementation of advanced image processing techniques for robotic control
 
 2. [Heart Defect Monitoring System](https://ieeexplore.ieee.org/document/9770624)
-   - Real-time heart monitoring using embedded systems
 
-3. [Smart Transportation System](https://ieeexplore.ieee.org/document/9545525)
-   - IoT-based intelligent transportation management
+3. [Iot Smart Transportation System](https://ieeexplore.ieee.org/document/9545525)
 
 
 ## 💭 Debug Console
